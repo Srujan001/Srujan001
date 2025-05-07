@@ -16,7 +16,7 @@
  
 ### 🛠 Tech Stack:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,git,snowflake" />
+<img src="https://skillicons.dev/icons?i=python,sql,git" />
 </p>
  
 ---
