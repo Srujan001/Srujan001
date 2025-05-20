@@ -7,16 +7,16 @@
 ---
  
 ### 🌟 About Me:
-- 🔭 I’m currently working on **Savage Workspace (Task Management App)**  
+- 🔭 I'm currently working on **Savage Workspace (Task Management App)**  
 - 🌱 Learning **ETL**  
-- 🛠 Specializing in **Sql, Python, and DevOps**  
+- 🛠 Specializing in **Sql, Python, and Azure**  
 - 📫 Reach me at: **srujan.patil07@gmail.com**  
  
 ---
  
 ### 🛠 Tech Stack:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,git" />
+<img src="https://skillicons.dev/icons?i=python,sql,git,azure" />
 </p>
  
 ---
