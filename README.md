@@ -9,7 +9,7 @@
 ### 🌟 About Me:
 - 🔭 I'm currently working on **Savage Workspace (Task Management App)**  
 - 🌱 Learning **ETL**  
-- 🛠 Specializing in **Sql, Python and Azure**  
+- 🛠 Specializing in **SQL, Python and Azure**  
 - 📫 Reach me at: **srujan.patil07@gmail.com**  
  
 ---
